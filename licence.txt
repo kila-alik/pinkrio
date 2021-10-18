@@ -1,8 +1,4 @@
-добавил перед free
-
 You are free:
-
-добавил после free
 
     to Share — to copy, distribute and transmit the work
     to Remix — to adapt the work
